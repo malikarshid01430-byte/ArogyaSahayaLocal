@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">आरोग्य सहायता लोकल</string>
+    <string name="login">लॉगिन</string>
+    <string name="register">पंजीकरण</string>
+    <string name="patients">मरीज़</string>
+    <string name="doctors">डॉक्टर</string>
+    <string name="settings">सेटिंग्स</string>
+</resources>

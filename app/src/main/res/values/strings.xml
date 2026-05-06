@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Arogya Sahaya Local</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="patients">Patients</string>
+    <string name="doctors">Doctors</string>
+    <string name="settings">Settings</string>
+</resources>
